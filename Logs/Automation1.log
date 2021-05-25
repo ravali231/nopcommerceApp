@@ -1,0 +1,503 @@
+05/22/2021 08:08:05:pm:INFO:
+
+05/22/2021 08:08:05:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:08:05:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:08:05:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:08:05:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:08:06:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:08:06:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:08:09:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:08:09:pm:INFO:
+
+05/22/2021 08:08:09:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:08:09:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:08:09:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:08:10:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:08:11:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:08:19:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:27:14:pm:INFO:
+
+05/22/2021 08:27:14:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:27:14:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:27:14:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:27:14:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:27:15:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:27:15:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:27:18:pm:ERROR:************* Home page title test is failed *************
+05/22/2021 08:27:18:pm:INFO:
+
+05/22/2021 08:27:18:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:27:18:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:27:18:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:27:18:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:27:19:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:27:28:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:27:36:pm:INFO:
+
+05/22/2021 08:27:36:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:27:36:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:27:36:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:27:36:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:27:37:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:27:37:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:27:42:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:27:42:pm:INFO:
+
+05/22/2021 08:27:42:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:27:42:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:27:42:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:27:43:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:27:44:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:27:54:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:28:27:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:28:27:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:32:03:pm:INFO:
+
+05/22/2021 08:32:03:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:32:03:pm:INFO:Current firefox version is 88.0
+05/22/2021 08:32:03:pm:INFO:Get LATEST driver version for 88.0
+05/22/2021 08:32:03:pm:INFO:Get LATEST driver version for 88.0
+05/22/2021 08:32:03:pm:INFO:Getting latest mozilla release info for v0.29.1
+05/22/2021 08:32:03:pm:INFO:Get LATEST driver version for 88.0
+05/22/2021 08:32:08:pm:INFO:Get LATEST driver version for 88.0
+05/22/2021 08:32:09:pm:INFO:Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-linux64.tar.gz
+05/22/2021 08:32:11:pm:INFO:Driver has been saved in cache [/home/ravali/.wdm/drivers/geckodriver/linux64/v0.29.1]
+05/22/2021 08:32:11:pm:INFO:
+
+05/22/2021 08:32:11:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:32:11:pm:INFO:Current firefox version is 88.0
+05/22/2021 08:32:11:pm:INFO:Get LATEST driver version for 88.0
+05/22/2021 08:32:11:pm:INFO:Driver [/home/ravali/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
+05/22/2021 08:32:54:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:32:54:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:32:59:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:33:09:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:33:19:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:38:34:pm:INFO:
+
+05/22/2021 08:38:34:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:38:34:pm:INFO:
+
+05/22/2021 08:38:34:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:38:34:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:38:34:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:38:34:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:38:34:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:38:35:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:38:35:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:38:36:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:38:36:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:38:36:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:38:40:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:38:47:pm:INFO:
+
+05/22/2021 08:38:47:pm:INFO:
+
+05/22/2021 08:38:47:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:38:47:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:38:47:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:38:47:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:38:47:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:38:47:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:38:47:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:38:47:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:38:48:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:38:48:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:38:48:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:39:13:pm:INFO:
+
+05/22/2021 08:39:13:pm:INFO:
+
+05/22/2021 08:39:13:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:39:13:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:39:13:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:39:13:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:39:13:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:39:13:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:39:13:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:39:13:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:39:15:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:39:15:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:39:15:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:39:20:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:39:51:pm:INFO:
+
+05/22/2021 08:39:51:pm:INFO:
+
+05/22/2021 08:39:51:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:39:51:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:39:51:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:39:51:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:39:51:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:39:51:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:39:51:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:39:51:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:39:53:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:39:53:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:39:53:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:39:58:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:42:05:pm:INFO:
+
+05/22/2021 08:42:05:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:42:05:pm:INFO:
+
+05/22/2021 08:42:05:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:42:05:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:42:05:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:42:05:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:42:05:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:42:05:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:42:05:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:42:07:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:42:07:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:42:07:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:42:13:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:42:16:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:42:28:pm:INFO:
+
+05/22/2021 08:42:28:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:42:28:pm:INFO:
+
+05/22/2021 08:42:28:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:42:29:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:42:29:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:42:29:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:42:29:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:42:29:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:42:29:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:42:30:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:42:30:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:42:30:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:42:34:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:42:48:pm:INFO:
+
+05/22/2021 08:42:48:pm:INFO:
+
+05/22/2021 08:42:48:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:42:48:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:42:48:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:42:48:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:42:48:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:42:48:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:42:48:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:42:48:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:42:50:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:42:50:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:42:50:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:42:56:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:42:59:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:43:06:pm:INFO:
+
+05/22/2021 08:43:06:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:43:06:pm:INFO:
+
+05/22/2021 08:43:06:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:43:06:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:43:06:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:43:06:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:43:06:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:43:07:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:43:07:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:43:08:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:43:08:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:43:08:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:43:14:pm:INFO:************* Home page title test is passed *************
+05/22/2021 08:43:15:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:43:25:pm:INFO:
+
+05/22/2021 08:43:25:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:43:25:pm:INFO:
+
+05/22/2021 08:43:25:pm:INFO:====== WebDriver manager ======
+05/22/2021 08:43:25:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:43:25:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 08:43:25:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:43:25:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 08:43:26:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:43:26:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 08:43:27:pm:INFO:************* Verifying Login Title *************
+05/22/2021 08:43:27:pm:INFO:************* Test_001_Login *************
+05/22/2021 08:43:27:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 08:43:32:pm:INFO:************* Login title test is passed *************
+05/22/2021 08:43:33:pm:INFO:************* Home page title test is passed *************
+05/22/2021 10:05:13:pm:INFO:
+
+05/22/2021 10:05:13:pm:INFO:
+
+05/22/2021 10:05:13:pm:INFO:====== WebDriver manager ======
+05/22/2021 10:05:13:pm:INFO:====== WebDriver manager ======
+05/22/2021 10:05:13:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 10:05:13:pm:INFO:Current google-chrome version is 90.0.4430
+05/22/2021 10:05:13:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 10:05:13:pm:INFO:Get LATEST driver version for 90.0.4430
+05/22/2021 10:05:14:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 10:05:14:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/22/2021 10:05:15:pm:INFO:************* Test_001_Login *************
+05/22/2021 10:05:15:pm:INFO:************* Verifying Home Page Title *************
+05/22/2021 10:05:15:pm:INFO:************* Verifying Login Title *************
+05/22/2021 10:05:21:pm:INFO:************* Home page title test is passed *************
+05/22/2021 10:05:29:pm:INFO:************* Login title test is passed *************
+05/24/2021 11:23:37:pm:INFO:
+
+05/24/2021 11:23:37:pm:INFO:====== WebDriver manager ======
+05/24/2021 11:23:37:pm:INFO:Current google-chrome version is 90.0.4430
+05/24/2021 11:23:37:pm:INFO:Get LATEST driver version for 90.0.4430
+05/24/2021 11:23:39:pm:INFO:Get LATEST driver version for 90.0.4430
+05/24/2021 11:23:40:pm:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/90.0.4430.24/chromedriver_linux64.zip
+05/24/2021 11:23:47:pm:INFO:Driver has been saved in cache [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24]
+05/24/2021 11:23:49:pm:INFO:************* Test_003_AddCustomer *************
+05/24/2021 11:23:49:pm:INFO:************* Verifying Add Customer Page *************
+05/24/2021 11:24:02:pm:INFO:************* Login Successful *************
+05/24/2021 11:24:02:pm:INFO:************* Starting add customer test *************
+05/24/2021 11:24:07:pm:INFO:************* Providing Customer info  *************
+05/25/2021 10:04:37:am:INFO:
+
+05/25/2021 10:04:37:am:INFO:====== WebDriver manager ======
+05/25/2021 10:04:37:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:04:37:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:04:38:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:04:38:am:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/90.0.4430.24/chromedriver_linux64.zip
+05/25/2021 10:04:42:am:INFO:Driver has been saved in cache [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24]
+05/25/2021 10:04:44:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:04:44:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:05:08:am:INFO:************* Login Successful *************
+05/25/2021 10:05:08:am:INFO:************* Starting add customer test *************
+05/25/2021 10:07:00:am:INFO:
+
+05/25/2021 10:07:00:am:INFO:====== WebDriver manager ======
+05/25/2021 10:07:00:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:07:00:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:07:03:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:07:05:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:07:05:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:07:30:am:INFO:************* Login Successful *************
+05/25/2021 10:07:30:am:INFO:************* Starting add customer test *************
+05/25/2021 10:07:37:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:09:57:am:INFO:
+
+05/25/2021 10:09:57:am:INFO:====== WebDriver manager ======
+05/25/2021 10:09:57:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:09:57:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:09:57:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:09:58:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:09:58:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:10:27:am:INFO:************* Login Successful *************
+05/25/2021 10:10:27:am:INFO:************* Starting add customer test *************
+05/25/2021 10:10:31:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:14:30:am:INFO:
+
+05/25/2021 10:14:30:am:INFO:====== WebDriver manager ======
+05/25/2021 10:14:30:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:14:30:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:14:31:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:14:32:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:14:32:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:14:48:am:INFO:************* Login Successful *************
+05/25/2021 10:14:48:am:INFO:************* Starting add customer test *************
+05/25/2021 10:14:51:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:21:37:am:INFO:
+
+05/25/2021 10:21:37:am:INFO:====== WebDriver manager ======
+05/25/2021 10:21:37:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:21:37:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:21:38:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:21:39:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:21:39:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:21:51:am:INFO:************* Login Successful *************
+05/25/2021 10:21:51:am:INFO:************* Starting add customer test *************
+05/25/2021 10:21:58:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:29:28:am:INFO:
+
+05/25/2021 10:29:28:am:INFO:====== WebDriver manager ======
+05/25/2021 10:29:28:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:29:28:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:29:29:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:29:30:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:29:30:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:29:46:am:INFO:************* Login Successful *************
+05/25/2021 10:29:46:am:INFO:************* Starting add customer test *************
+05/25/2021 10:29:53:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:33:03:am:INFO:
+
+05/25/2021 10:33:03:am:INFO:====== WebDriver manager ======
+05/25/2021 10:33:03:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:33:03:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:33:04:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:33:05:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:33:05:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:33:18:am:INFO:************* Login Successful *************
+05/25/2021 10:33:18:am:INFO:************* Starting add customer test *************
+05/25/2021 10:33:21:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:36:39:am:INFO:
+
+05/25/2021 10:36:39:am:INFO:====== WebDriver manager ======
+05/25/2021 10:36:39:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:36:39:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:36:40:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:36:41:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:36:41:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:36:54:am:INFO:************* Login Successful *************
+05/25/2021 10:36:54:am:INFO:************* Starting add customer test *************
+05/25/2021 10:37:00:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:44:04:am:INFO:
+
+05/25/2021 10:44:04:am:INFO:====== WebDriver manager ======
+05/25/2021 10:44:04:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:44:04:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:44:04:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:44:05:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:44:05:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:44:18:am:INFO:************* Login Successful *************
+05/25/2021 10:44:18:am:INFO:************* Starting add customer test *************
+05/25/2021 10:44:22:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:45:46:am:INFO:
+
+05/25/2021 10:45:46:am:INFO:====== WebDriver manager ======
+05/25/2021 10:45:46:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:45:46:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:45:46:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:45:48:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:45:48:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:46:00:am:INFO:************* Login Successful *************
+05/25/2021 10:46:00:am:INFO:************* Starting add customer test *************
+05/25/2021 10:46:04:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:48:04:am:INFO:
+
+05/25/2021 10:48:04:am:INFO:====== WebDriver manager ======
+05/25/2021 10:48:04:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:48:04:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:48:04:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:48:06:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:48:06:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:48:15:am:INFO:************* Login Successful *************
+05/25/2021 10:48:15:am:INFO:************* Starting add customer test *************
+05/25/2021 10:48:19:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:49:31:am:INFO:
+
+05/25/2021 10:49:31:am:INFO:====== WebDriver manager ======
+05/25/2021 10:49:31:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:49:31:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:49:32:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:49:33:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:49:33:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:49:44:am:INFO:************* Login Successful *************
+05/25/2021 10:49:44:am:INFO:************* Starting add customer test *************
+05/25/2021 10:49:47:am:INFO:************* Providing Customer info  *************
+05/25/2021 10:50:29:am:INFO:
+
+05/25/2021 10:50:29:am:INFO:====== WebDriver manager ======
+05/25/2021 10:50:29:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 10:50:29:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 10:50:29:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 10:50:31:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 10:50:31:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 10:50:41:am:INFO:************* Login Successful *************
+05/25/2021 10:50:41:am:INFO:************* Starting add customer test *************
+05/25/2021 10:50:45:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:04:43:am:INFO:
+
+05/25/2021 11:04:43:am:INFO:====== WebDriver manager ======
+05/25/2021 11:04:43:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:04:43:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:04:43:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:04:44:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:04:44:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:04:57:am:INFO:************* Login Successful *************
+05/25/2021 11:04:57:am:INFO:************* Starting add customer test *************
+05/25/2021 11:05:01:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:18:31:am:INFO:
+
+05/25/2021 11:18:31:am:INFO:====== WebDriver manager ======
+05/25/2021 11:18:31:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:18:31:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:18:31:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:18:32:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:18:32:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:19:06:am:INFO:************* Login Successful *************
+05/25/2021 11:19:06:am:INFO:************* Starting add customer test *************
+05/25/2021 11:19:15:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:21:33:am:INFO:
+
+05/25/2021 11:21:33:am:INFO:====== WebDriver manager ======
+05/25/2021 11:21:33:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:21:33:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:21:33:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:21:35:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:21:35:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:21:46:am:INFO:************* Login Successful *************
+05/25/2021 11:21:46:am:INFO:************* Starting add customer test *************
+05/25/2021 11:21:52:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:21:56:am:INFO:************* Saving Customer info *************
+05/25/2021 11:21:56:am:INFO:************* Add customer Validation started *************
+05/25/2021 11:21:57:am:ERROR:************* Add Customer test failed *************
+05/25/2021 11:24:53:am:INFO:
+
+05/25/2021 11:24:53:am:INFO:====== WebDriver manager ======
+05/25/2021 11:24:53:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:24:53:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:24:54:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:24:55:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:24:55:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:25:08:am:INFO:************* Login Successful *************
+05/25/2021 11:25:08:am:INFO:************* Starting add customer test *************
+05/25/2021 11:25:12:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:25:16:am:INFO:************* Saving Customer info *************
+05/25/2021 11:25:16:am:INFO:************* Add customer Validation started *************
+05/25/2021 11:25:16:am:ERROR:************* Add Customer test failed *************
+05/25/2021 11:27:19:am:INFO:
+
+05/25/2021 11:27:19:am:INFO:====== WebDriver manager ======
+05/25/2021 11:27:19:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:27:19:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:27:19:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:27:22:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:27:22:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:27:35:am:INFO:************* Login Successful *************
+05/25/2021 11:27:35:am:INFO:************* Starting add customer test *************
+05/25/2021 11:27:39:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:27:43:am:INFO:************* Saving Customer info *************
+05/25/2021 11:27:43:am:INFO:************* Add customer Validation started *************
+05/25/2021 11:27:43:am:ERROR:************* Add Customer test failed *************
+05/25/2021 11:29:48:am:INFO:
+
+05/25/2021 11:29:48:am:INFO:====== WebDriver manager ======
+05/25/2021 11:29:48:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:29:48:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:29:48:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:29:50:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:29:50:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:30:01:am:INFO:************* Login Successful *************
+05/25/2021 11:30:01:am:INFO:************* Starting add customer test *************
+05/25/2021 11:30:04:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:30:10:am:INFO:************* Saving Customer info *************
+05/25/2021 11:30:10:am:INFO:************* Add customer Validation started *************
+05/25/2021 11:30:10:am:ERROR:************* Add Customer test failed *************
+05/25/2021 11:32:15:am:INFO:
+
+05/25/2021 11:32:15:am:INFO:====== WebDriver manager ======
+05/25/2021 11:32:15:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:32:15:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:32:15:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:32:16:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:32:16:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:32:28:am:INFO:************* Login Successful *************
+05/25/2021 11:32:28:am:INFO:************* Starting add customer test *************
+05/25/2021 11:32:33:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:32:37:am:INFO:************* Saving Customer info *************
+05/25/2021 11:32:37:am:INFO:************* Add customer Validation started *************
+05/25/2021 11:32:37:am:ERROR:************* Add Customer test failed *************
+05/25/2021 11:33:34:am:INFO:
+
+05/25/2021 11:33:34:am:INFO:====== WebDriver manager ======
+05/25/2021 11:33:34:am:INFO:Current google-chrome version is 90.0.4430
+05/25/2021 11:33:34:am:INFO:Get LATEST driver version for 90.0.4430
+05/25/2021 11:33:34:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
+05/25/2021 11:33:35:am:INFO:************* Test_003_AddCustomer *************
+05/25/2021 11:33:35:am:INFO:************* Verifying Add Customer Page *************
+05/25/2021 11:33:49:am:INFO:************* Login Successful *************
+05/25/2021 11:33:49:am:INFO:************* Starting add customer test *************
+05/25/2021 11:33:54:am:INFO:************* Providing Customer info  *************
+05/25/2021 11:33:58:am:INFO:************* Saving Customer info *************
+05/25/2021 11:33:58:am:INFO:************* Add customer Validation started *************
+05/25/2021 11:33:58:am:INFO:************* Add Customer Test passed *************
+05/25/2021 11:33:58:am:INFO:************* Ending Add Customer Title Test *************

@@ -159,3 +159,5 @@ JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.j
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1621966495304	Marionette	INFO	Stopped listening on port 35147
+1621966495596	Marionette	INFO	Stopped listening on port 46387

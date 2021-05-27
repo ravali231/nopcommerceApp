@@ -7,7 +7,7 @@ class LogGen:
             logging.root.removeHandler(handler)
         logging.basicConfig(filename="/home/ravali/PycharmProjects/nopcommerceApp/Logs/Automation3.log",
                             format='%(asctime)s:%(levelname)s:%(message)s',
-                            datefmt='%m/%d/%Y %I:%M:%S:%P',filemode="w+")
+                            datefmt='%m/%d/%Y %I:%M:%S:%P',filemode="w")
 
         logger = logging.getLogger()
         logger.setLevel(logging.INFO)

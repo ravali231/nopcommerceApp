@@ -480,3 +480,35 @@
 05/25/2021 11:06:47:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/90.0.4430.24/chromedriver] found in cache
 05/25/2021 11:06:48:pm:INFO:************* Verifying Login Title *************
 05/25/2021 11:06:58:pm:INFO:************* Login title test is passed *************
+05/27/2021 02:56:17:am:INFO:
+
+05/27/2021 02:56:17:am:INFO:====== WebDriver manager ======
+05/27/2021 02:56:17:am:INFO:Current google-chrome version is 91.0.4472
+05/27/2021 02:56:17:am:INFO:Get LATEST driver version for 91.0.4472
+05/27/2021 02:56:18:am:INFO:There is no [linux64] chromedriver for browser 91.0.4472 in cache
+05/27/2021 02:56:18:am:INFO:Get LATEST driver version for 91.0.4472
+05/27/2021 02:56:18:am:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.19/chromedriver_linux64.zip
+05/27/2021 02:56:20:am:INFO:Driver has been saved in cache [/home/ravali/.wdm/drivers/chromedriver/linux64/91.0.4472.19]
+05/27/2021 02:56:21:am:INFO:************* Test_003_AddCustomer *************
+05/27/2021 02:56:21:am:INFO:************* Verifying Add Customer Page *************
+05/27/2021 02:56:28:am:INFO:************* Login Successful *************
+05/27/2021 02:56:28:am:INFO:************* Starting add customer test *************
+05/27/2021 02:56:31:am:INFO:************* Providing Customer info  *************
+05/27/2021 02:56:33:am:INFO:************* Saving Customer info *************
+05/27/2021 02:56:33:am:INFO:************* Add customer Validation started *************
+05/27/2021 02:56:33:am:INFO:************* Add Customer Test passed *************
+05/27/2021 02:56:34:am:INFO:************* Ending Add Customer Title Test *************
+05/27/2021 02:56:34:am:INFO:
+
+05/27/2021 02:56:34:am:INFO:====== WebDriver manager ======
+05/27/2021 02:56:34:am:INFO:Current google-chrome version is 91.0.4472
+05/27/2021 02:56:34:am:INFO:Get LATEST driver version for 91.0.4472
+05/27/2021 02:56:34:am:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/91.0.4472.19/chromedriver] found in cache
+05/27/2021 02:56:36:am:INFO:************* Verifying Login Title *************
+05/27/2021 02:56:44:am:INFO:************* Login title test is passed *************
+05/27/2021 03:05:18:am:INFO:************* Test_003_AddCustomer *************
+05/27/2021 03:05:18:am:INFO:************* Verifying Add Customer Page *************
+05/27/2021 03:05:31:am:INFO:************* Login Successful *************
+05/27/2021 03:05:31:am:INFO:************* Starting add customer test *************
+05/27/2021 03:05:35:am:INFO:************* Verifying Login Title *************
+05/27/2021 03:05:53:am:INFO:************* Login title test is passed *************

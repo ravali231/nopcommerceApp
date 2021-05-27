@@ -1,8 +1,8 @@
-05/27/2021 04:19:16:pm:INFO:
+05/27/2021 04:46:42:pm:INFO:
 
-05/27/2021 04:19:16:pm:INFO:====== WebDriver manager ======
-05/27/2021 04:19:16:pm:INFO:Current google-chrome version is 91.0.4472
-05/27/2021 04:19:16:pm:INFO:Get LATEST driver version for 91.0.4472
-05/27/2021 04:19:17:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/91.0.4472.19/chromedriver] found in cache
-05/27/2021 04:19:18:pm:INFO:************* Verifying Login Title *************
-05/27/2021 04:19:30:pm:INFO:************* Login title test is passed *************
+05/27/2021 04:46:42:pm:INFO:====== WebDriver manager ======
+05/27/2021 04:46:42:pm:INFO:Current google-chrome version is 91.0.4472
+05/27/2021 04:46:42:pm:INFO:Get LATEST driver version for 91.0.4472
+05/27/2021 04:46:43:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/91.0.4472.19/chromedriver] found in cache
+05/27/2021 04:46:44:pm:INFO:************* Verifying Login Title *************
+05/27/2021 04:46:55:pm:INFO:************* Login title test is passed *************

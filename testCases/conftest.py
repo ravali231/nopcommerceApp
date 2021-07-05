@@ -8,7 +8,8 @@ from webdriver_manager.firefox import GeckoDriverManager
 @pytest.fixture()
 def setup(browser):
     if browser=='chrome':
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+        driver = webdriver.Chrome(executable_path="/home/ravali/PycharmProjects/nopcommerceApp/chromedriver")
+        #(ChromeDriverManager().install())
         print("Launching chrome browser")
     elif browser=='firefox':
         driver = webdriver.Firefox()

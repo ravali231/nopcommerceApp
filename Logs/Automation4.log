@@ -1,21 +1,11 @@
-07/05/2021 11:33:03:pm:INFO:
-
-07/05/2021 11:33:03:pm:INFO:====== WebDriver manager ======
-07/05/2021 11:33:03:pm:INFO:Current google-chrome version is 91.0.4472
-07/05/2021 11:33:03:pm:INFO:Get LATEST driver version for 91.0.4472
-07/05/2021 11:33:04:pm:INFO:There is no [linux64] chromedriver for browser 91.0.4472 in cache
-07/05/2021 11:33:04:pm:INFO:Get LATEST driver version for 91.0.4472
-07/05/2021 11:33:04:pm:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_linux64.zip
-07/05/2021 11:33:06:pm:INFO:Driver has been saved in cache [/home/ravali/.wdm/drivers/chromedriver/linux64/91.0.4472.101]
-07/05/2021 11:33:07:pm:INFO:************* Test_003_AddCustomer *************
-07/05/2021 11:33:07:pm:INFO:************* Verifying Add Customer Page *************
-07/05/2021 11:33:19:pm:INFO:************* Login Successful *************
-07/05/2021 11:33:19:pm:INFO:************* Starting add customer test *************
-07/05/2021 11:33:20:pm:INFO:
-
-07/05/2021 11:33:20:pm:INFO:====== WebDriver manager ======
-07/05/2021 11:33:20:pm:INFO:Current google-chrome version is 91.0.4472
-07/05/2021 11:33:20:pm:INFO:Get LATEST driver version for 91.0.4472
-07/05/2021 11:33:20:pm:INFO:Driver [/home/ravali/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
-07/05/2021 11:33:21:pm:INFO:************* Verifying Login Title *************
-07/05/2021 11:33:30:pm:INFO:************* Login title test is passed *************
+07/06/2021 12:10:15:am:INFO:************* Test_003_AddCustomer *************
+07/06/2021 12:10:15:am:INFO:************* Verifying Add Customer Page *************
+07/06/2021 12:10:27:am:INFO:************* Login Successful *************
+07/06/2021 12:10:27:am:INFO:************* Starting add customer test *************
+07/06/2021 12:10:31:am:INFO:************* Providing Customer info  *************
+07/06/2021 12:10:33:am:INFO:************* Saving Customer info *************
+07/06/2021 12:10:33:am:INFO:************* Add customer Validation started *************
+07/06/2021 12:10:33:am:INFO:************* Add Customer Test passed *************
+07/06/2021 12:10:34:am:INFO:************* Ending Add Customer Title Test *************
+07/06/2021 12:10:36:am:INFO:************* Verifying Login Title *************
+07/06/2021 12:10:45:am:INFO:************* Login title test is passed *************

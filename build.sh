@@ -8,4 +8,5 @@ wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodrive
 tar -xvzf geckodriver
 chmod +x geckodriver
 sudo mv geckodriver /usr/local/bin/
+# chmod -R 777 ./ - provide permissions to directory
 
